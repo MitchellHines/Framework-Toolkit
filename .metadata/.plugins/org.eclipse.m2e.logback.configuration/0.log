@@ -1,1 +1,24 @@
 2017-10-25 11:29:58,466 [Worker-0] INFO  c.g.t.t.d.PublishedGradleVersions - Gradle version information cache is up-to-date. Trying to read.
+2017-10-26 10:04:07,151 [Worker-10] INFO  c.g.t.t.d.PublishedGradleVersions - Gradle version information cache is up-to-date. Trying to read.
+2017-10-26 10:15:12,333 [Worker-12] INFO  c.g.t.t.d.PublishedGradleVersions - Gradle version information cache is up-to-date. Trying to read.
+2017-11-08 13:03:08,211 [Worker-14] INFO  c.g.t.t.d.PublishedGradleVersions - Gradle version information cache is up-to-date. Trying to read.
+2017-11-08 13:04:48,146 [Worker-8] INFO  o.e.m.c.i.l.LifecycleMappingFactory - Using org.eclipse.m2e.jdt.JarLifecycleMapping lifecycle mapping for MavenProject: RubyFramework:RubyFramework:0.0.1-SNAPSHOT @ C:\Users\mitchell.hines\github-workspace\RubyFramework\pom.xml.
+2017-11-08 13:04:49,083 [Worker-8] INFO  o.e.m.j.i.AbstractJavaProjectConfigurator - Adding source folder /RubyFramework/src/main/java
+2017-11-08 13:04:49,119 [Worker-8] INFO  o.e.m.j.i.AbstractJavaProjectConfigurator - Adding source folder /RubyFramework/src/test/java
+2017-11-08 13:04:49,515 [Worker-12] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2017-11-08 13:04:49,517 [Worker-12] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\mitchell.hines\github-workspace\RubyFramework\src\main\resources
+2017-11-08 13:04:49,540 [Worker-12] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2017-11-08 13:04:49,542 [Worker-12] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\mitchell.hines\github-workspace\RubyFramework\src\test\resources
+2017-11-08 13:04:50,145 [Worker-8] INFO  o.e.m.c.i.p.ProjectConfigurationManager - Update started
+2017-11-08 13:04:50,975 [Worker-8] INFO  o.e.m.c.i.l.LifecycleMappingFactory - Using org.eclipse.m2e.jdt.JarLifecycleMapping lifecycle mapping for MavenProject: RubyFramework:RubyFramework:0.0.1-SNAPSHOT @ C:\Users\mitchell.hines\github-workspace\RubyFramework\pom.xml.
+2017-11-08 13:04:51,413 [Worker-5] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2017-11-08 13:04:51,416 [Worker-5] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\mitchell.hines\github-workspace\RubyFramework\src\main\resources
+2017-11-08 13:04:51,417 [Worker-5] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2017-11-08 13:04:51,419 [Worker-5] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\mitchell.hines\github-workspace\RubyFramework\src\test\resources
+2017-11-08 13:04:51,422 [Worker-8] INFO  o.e.m.j.i.AbstractJavaProjectConfigurator - Adding source folder /RubyFramework/src/main/java
+2017-11-08 13:04:51,423 [Worker-8] INFO  o.e.m.j.i.AbstractJavaProjectConfigurator - Adding source folder /RubyFramework/src/test/java
+2017-11-08 13:04:51,469 [Worker-8] INFO  o.e.m.c.i.p.ProjectConfigurationManager - Update completed: 1 sec
+2017-11-08 13:04:52,502 [Worker-0] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2017-11-08 13:04:52,519 [Worker-0] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\mitchell.hines\github-workspace\RubyFramework\src\main\resources
+2017-11-08 13:04:52,524 [Worker-0] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2017-11-08 13:04:52,537 [Worker-0] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\mitchell.hines\github-workspace\RubyFramework\src\test\resources
